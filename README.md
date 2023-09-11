@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **I like all kinds of languages(human, programming, body and art languages)**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
