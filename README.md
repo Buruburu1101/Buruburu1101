@@ -1,6 +1,6 @@
 ![MasterHead](https://res.cloudinary.com/dfcslefxy/image/upload/v1694428899/fzxmbnpljatriextfrtm.png)
 <h1 align="center">Hi 👋, I'm Buruburu</h1>
-<h3 align="center">A passionate full stack developer living in Tokyo</h3>
+<h3 align="left">A passionate full stack developer living in Tokyo</h3>
 <img align="right" alt="Buruburu" width="400" src="https://res.cloudinary.com/dfcslefxy/image/upload/v1694430507/sajro2yocgsllev2fqu2.png">
 
 - 🔭 I’m currently working on **DocStash.AI**
