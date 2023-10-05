@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Buruburu</h1>
 <h3 align="left">A passionate full stack developer living in Tokyo</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buruburu1101&label=Profile%20views&color=0e75b6&style=flat" alt="buruburu1101" /> </p>
-<img align="right" alt="Buruburu" width="250" src="https://res.cloudinary.com/dfcslefxy/image/upload/v1694430507/sajro2yocgsllev2fqu2.png">
 
 - 🔭 I’m currently working on **Javascript Amazon Project**
 
